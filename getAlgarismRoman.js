@@ -1,7 +1,7 @@
 /**
  * Retorna o algarismo romano a partir do numero
  * 
- * @param {string} numero
+ * @param {string} / {int} numero
  *
  */
 
